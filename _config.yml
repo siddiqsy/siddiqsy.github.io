@@ -1,3 +1,5 @@
-<h1> Hello World! <h1>
-
-hello world
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
